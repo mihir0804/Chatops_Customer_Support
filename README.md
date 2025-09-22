@@ -30,6 +30,10 @@
 
 This application is ready for deployment to GitHub Pages or any static hosting service. Simply upload all files to your hosting provider.
 
+## Live Demo
+
+[View QueryIQ Dashboard](https://mihir0804.github.io/Chatops_Customer_Support/)
+
 ## Browser Support
 
 - Chrome (latest)
